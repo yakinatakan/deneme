@@ -1,26 +1,24 @@
-{"yemekler":[
+{[
 	{
-	 "yemek_id":1,
 	 "yemek_adi":"YEMEKADI1",
 	 "yemek_aciklama":"GUZEL BIR YEMEK1"
 	},
 	{
-	 "yemek_id":2,
 	 "yemek_adi":"YEMEKADI2",
 	 "yemek_aciklama":"GUZEL BIR YEMEK2"
 	}
 	{
-	 "yemek_id":3,
+
 	 "yemek_adi":"YEMEKADI3",
 	 "yemek_aciklama":"GUZEL BIR YEMEK3"
 	}
 	{
-	 "yemek_id":4,
+
 	 "yemek_adi":"YEMEKADI4",
 	 "yemek_aciklama":"GUZEL BIR YEMEK4"
 	}
 	{
-	 "yemek_id":5,
+
 	 "yemek_adi":"YEMEKADI5",
 	 "yemek_aciklama":"GUZEL BIR YEMEK5"
 	}	
